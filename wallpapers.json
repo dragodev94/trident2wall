@@ -1,89 +1,104 @@
 {
-  "wallpapers": [
-  {
-      "url": "https://github.com/dragodev94/trident2wall/blob/master/oldbridge.jpg?raw=true",
-      "name": "Bridge",
-      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/oldbridgecopia.jpg?raw=true"
-    },
-  {
-      "url": "https://github.com/dragodev94/trident2wall/blob/master/20127228850_7b5268c5d7_o.jpg?raw=true",
-      "name": "Water",
-      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/20127228850_7b5268c5d7_ocopia.jpg?raw=true"
-    },
-  {
-      "url": "https://github.com/dragodev94/trident2wall/blob/master/24057039099_c6f4831f54_o.jpg?raw=true",
-      "name": "Valley",
-      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/24057039099_c6f4831f54_ocopia.jpg?raw=true"
-    },
-  {
-      "url": "https://github.com/dragodev94/trident2wall/blob/master/26596500496_91121644bb_o.jpg?raw=true",
-      "name": "Waterfall",
-      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/26596500496_91121644bb_ocopia.jpg?raw=true"
-    },
-  {
-      "url": "https://github.com/dragodev94/trident2wall/blob/master/ESP_014333_1715_desktop.jpg?raw=true",
-      "name": "Space 1",
-      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/ESP_014333_1715_desktopcopia.jpg?raw=true"
-    },
-  {
-      "url": "https://github.com/dragodev94/trident2wall/blob/master/ESP_016087_2595_desktop.jpg?raw=true",
-      "name": "Space 2",
-      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/ESP_016087_2595_desktopcopia.jpg?raw=true"
-    },
-  {
-      "url": "https://github.com/dragodev94/trident2wall/blob/master/ESP_020297_2045_desktop.jpg?raw=true",
-      "name": "Space 3",
-      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/ESP_020297_2045_desktopcopia.jpg?raw=true"
-    },
-  {
-      "url": "https://github.com/dragodev94/trident2wall/blob/master/heic0615a_desktop.jpg",
-      "name": "Space 5",
-      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/heic0615a_desktopcopia.jpg?raw=true"
-    },
-  {
-      "url": "https://github.com/dragodev94/trident2wall/blob/master/heic0601a_desktop.jpg",
-      "name": "Space 6",
-      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/heic0601a_desktopcopia.jpg?raw=true"
-    },
-  {
-      "url": "https://github.com/dragodev94/trident2wall/blob/master/opo0432d_desktop.jpg?raw=true",
-      "name": "Space 7",
-      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/opo0432d_desktopcopia.jpg?raw=true"
-    },
-  {
-      "url": "https://github.com/dragodev94/trident2wall/blob/master/Foggy-Hills.jpg?raw=true",
-      "name": "Foggy Hill",
-      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/Foggy-Hillscopia.jpg?raw=true"
-    },
-  {
-      "url": "https://github.com/dragodev94/trident2wall/blob/master/pexels-photo-24464.jpg?raw=true",
-      "name": "House",
-      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/pexels-photo-24464copia.jpg?raw=true"
-    },
-  {
-      "url": "https://github.com/dragodev94/trident2wall/blob/master/photo-1439894671367-1904e126d8f1.jpeg?raw=true",
-      "name": "Flower",
-      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/photo-1439894671367-1904e126d8f1copia.jpg?raw=true"
-    },
-  {
-      "url": "https://github.com/dragodev94/trident2wall/blob/master/photo-1458981455175-e5fe8743b75a.jpeg?raw=true",
-      "name": "Water 2",
-      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/forse.jpg?raw=true"
-    },
-  {
-      "url": "https://github.com/dragodev94/trident2wall/blob/master/photo-1459350627708-30cff1602fff.jpg?raw=true",
-      "name": "Girl",
-      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/photo-1459350627708-30cff1602fffcopia.jpg?raw=true"
-    },
-  {
-      "url": "https://github.com/dragodev94/trident2wall/blob/master/photo-1460053707693-f09f8c70d1e5.jpeg?raw=true",
-      "name": "Plant",
-      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/photo-1460053707693-f09f8c70d1e5copia.jpg?raw=true"
-    },
-  {
-      "url": "https://github.com/dragodev94/trident2wall/blob/master/star-472968.jpg?raw=true",
-      "name": "Stars",
-      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/star-472968copia.jpg?raw=true"
-    }
-  ]
-}
+        "url": "https://github.com/dragodev94/trident2wall/blob/master/oldbridge.jpg?raw=true",
+        "name": "Bridge",
+ -      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/oldbridge%20copia.jpg?raw=true"
+ +      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/oldbridgecopia.jpg?raw=true"
+      },
+    {
+        "url": "https://github.com/dragodev94/trident2wall/blob/master/20127228850_7b5268c5d7_o.jpg?raw=true",
+        "name": "Water",
+ -      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/20127228850_7b5268c5d7_o%20copia.jpg?raw=true"
+ +      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/20127228850_7b5268c5d7_ocopia.jpg?raw=true"
+      },
+    {
+        "url": "https://github.com/dragodev94/trident2wall/blob/master/24057039099_c6f4831f54_o.jpg?raw=true",
+        "name": "Valley",
+ -      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/24057039099_c6f4831f54_o%20copia.jpg?raw=true"
+ +      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/24057039099_c6f4831f54_ocopia.jpg?raw=true"
+      },
+    {
+        "url": "https://github.com/dragodev94/trident2wall/blob/master/26596500496_91121644bb_o.jpg?raw=true",
+        "name": "Waterfall",
+ -      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/26596500496_91121644bb_o%20copia.jpg?raw=true"
+ +      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/26596500496_91121644bb_ocopia.jpg?raw=true"
+      },
+    {
+        "url": "https://github.com/dragodev94/trident2wall/blob/master/ESP_014333_1715_desktop.jpg?raw=true",
+        "name": "Space 1",
+ -      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/ESP_014333_1715_desktop%20copia.jpg?raw=true"
+ +      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/ESP_014333_1715_desktopcopia.jpg?raw=true"
+      },
+    {
+        "url": "https://github.com/dragodev94/trident2wall/blob/master/ESP_016087_2595_desktop.jpg?raw=true",
+        "name": "Space 2",
+ -      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/ESP_016087_2595_desktop%20copia.jpg?raw=true"
+ +      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/ESP_016087_2595_desktopcopia.jpg?raw=true"
+      },
+    {
+        "url": "https://github.com/dragodev94/trident2wall/blob/master/ESP_020297_2045_desktop.jpg?raw=true",
+        "name": "Space 3",
+ -      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/ESP_020297_2045_desktop%20copia.jpg?raw=true"
+ +      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/ESP_020297_2045_desktopcopia.jpg?raw=true"
+      },
+    {
+        "url": "https://github.com/dragodev94/trident2wall/blob/master/heic0615a_desktop.jpg",
+        "name": "Space 5",
+ -      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/heic0615a_desktop%20copia.jpg?raw=true"
+ +      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/heic0615a_desktopcopia.jpg?raw=true"
+      },
+    {
+        "url": "https://github.com/dragodev94/trident2wall/blob/master/heic0601a_desktop.jpg",
+        "name": "Space 6",
+ -      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/heic0601a_desktop%20copia.jpg?raw=true"
+ +      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/heic0601a_desktopcopia.jpg?raw=true"
+      },
+    {
+        "url": "https://github.com/dragodev94/trident2wall/blob/master/opo0432d_desktop.jpg?raw=true",
+        "name": "Space 7",
+ -      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/opo0432d_desktop%20copia.jpg?raw=true"
+ +      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/opo0432d_desktopcopia.jpg?raw=true"
+      },
+    {
+        "url": "https://github.com/dragodev94/trident2wall/blob/master/Foggy-Hills.jpg?raw=true",
+        "name": "Foggy Hill",
+ -      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/Foggy-Hills%20copia.jpg?raw=true"
+ +      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/Foggy-Hillscopia.jpg?raw=true"
+      },
+    {
+        "url": "https://github.com/dragodev94/trident2wall/blob/master/pexels-photo-24464.jpg?raw=true",
+        "name": "House",
+ -      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/pexels-photo-24464%20copia.jpg?raw=true"
+ +      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/pexels-photo-24464copia.jpg?raw=true"
+      },
+    {
+        "url": "https://github.com/dragodev94/trident2wall/blob/master/photo-1439894671367-1904e126d8f1.jpeg?raw=true",
+        "name": "Flower",
+ -      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/photo-1439894671367-1904e126d8f1%20copia.jpg?raw=true"
+ +      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/photo-1439894671367-1904e126d8f1copia.jpg?raw=true"
+      },
+    {
+        "url": "https://github.com/dragodev94/trident2wall/blob/master/photo-1458981455175-e5fe8743b75a.jpeg?raw=true",
+        "name": "Water 2",
+ -      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/photo-1458981455175-e5fe8743b75a%20copia.jpg?raw=true"
+ +      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/photo-1458981455175-e5fe8743b75acopia.jpg?raw=true"
+      },
+    {
+        "url": "https://github.com/dragodev94/trident2wall/blob/master/photo-1459350627708-30cff1602fff.jpg?raw=true",
+        "name": "Girl",
+ -      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/photo-1459350627708-30cff1602fff%20copia.jpg?raw=true"
+ +      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/photo-1459350627708-30cff1602fffcopia.jpg?raw=true"
+      },
+    {
+        "url": "https://github.com/dragodev94/trident2wall/blob/master/photo-1460053707693-f09f8c70d1e5.jpeg?raw=true",
+        "name": "Plant",
+ -      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/photo-1460053707693-f09f8c70d1e5%20copia.jpg?raw=true"
+ +      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/photo-1460053707693-f09f8c70d1e5copia.jpg?raw=true"
+      },
+    {
+        "url": "https://github.com/dragodev94/trident2wall/blob/master/star-472968.jpg?raw=true",
+        "name": "Stars",
+ -      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/star-472968%20copia.jpg?raw=true"
+ +      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/star-472968copia.jpg?raw=true"
+      }
+    ]
+  }
