@@ -5,21 +5,6 @@
       "name": "East Branch",
       "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/20127228850_7b5268c5d7_o.jpg?raw=true"
     },
-    {
-      "url": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch.jpg",
-      "name": "East Branch",
-      "thumbnail": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch_thumb.jpg"
-    },
-    {
-      "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
-      "name": "Heads Up",
-      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
-    },
-    {
-      "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
-      "name":" Flamingos",
-      "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
-    }
   ]
 }
 
