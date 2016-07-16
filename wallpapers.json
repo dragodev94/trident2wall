@@ -3,7 +3,10 @@
   {
       "url": "https://github.com/dragodev94/trident2wall/blob/master/oldbridge.jpg?raw=true",
       "name": "East Branch",
-      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/oldbridge.jpg?raw=true"
+    },
+      {
+      "url": "https://github.com/dragodev94/trident2wall/blob/master/Foggy-Hills.jpg",
+      "name": "East Branch",
     }
   ]
 }
