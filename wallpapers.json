@@ -1,6 +1,21 @@
 {
   "wallpapers": [
   {
+      "url": "https://github.com/dragodev94/trident2wall/blob/master/pexels-photo-67440.jpeg?raw=true",
+      "name": "Shoes",
+      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/pexels-photo-67440%20copiapiccola.jpg?raw=true"
+    },   
+  {
+      "url": "https://github.com/dragodev94/trident2wall/blob/master/pexels-photo-66422.jpeg?raw=true",
+      "name": "Plant 2",
+      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/pexels-photo-66422%20copiapiccola.jpg?raw=true"
+    },  
+  {
+      "url": "https://github.com/dragodev94/trident2wall/blob/master/pexels-photo-26011%20copia.jpg?raw=true",
+      "name": "Street Fog",
+      "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/pexels-photo-26011%20copiapiccola.jpg?raw=true"
+    },
+  {
       "url": "https://github.com/dragodev94/trident2wall/blob/master/oldbridge.jpg?raw=true",
       "name": "Bridge",
       "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/oldbridge%20copia.jpg?raw=true"
