@@ -1,6 +1,22 @@
 {
   "wallpapers": [
   {
+      "url": "https://github.com/dragodev94/trident2wall/blob/master/FallSailing.jpg?raw=true",
+      "name": "FallSailing"
+    },
+  {
+      "url": "https://github.com/dragodev94/trident2wall/blob/master/macro-1208503.jpg?raw=true",
+      "name": "Macro"
+    },
+  {
+      "url": "https://github.com/dragodev94/trident2wall/blob/master/photo-1449960238630-7e720e630019.jpeg?raw=true",
+      "name": "Black sand"
+    },
+  {
+      "url": "https://github.com/dragodev94/trident2wall/blob/master/photo-1451906278231-17b8ff0a8880.jpeg?raw=true",
+      "name": "Beach"
+    },  
+  {
       "url": "https://github.com/dragodev94/trident2wall/blob/master/photo-1469392348683-b34f806f3c4c%20copia.jpg?raw=true",
       "name": "Sea by Jason Blackeye",
       "thumbnail": "https://github.com/dragodev94/trident2wall/blob/master/photo-1469392348683-b34f806f3c4c%20FAFAF.jpg?raw=true"
