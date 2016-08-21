@@ -1,5 +1,33 @@
 {
   "wallpapers": [
+  {
+      "url": "https://github.com/dragodev94/trident2wall/blob/master/VeniceZoom.jpg?raw=true",
+      "name": "Venice"
+    },
+  {
+      "url": "https://github.com/dragodev94/trident2wall/blob/master/pexels-photo-104819.jpeg?raw=true",
+      "name": "Little Island"
+    },
+  {
+      "url": "https://github.com/dragodev94/trident2wall/blob/master/pexels-photo-128994.jpeg?raw=true",
+      "name": "Sun and beach"
+    },
+  {
+      "url": "https://github.com/dragodev94/trident2wall/blob/master/pexels-photo-137703.jpeg?raw=true",
+      "name": "Blue sea"
+    },
+  {
+      "url": "https://github.com/dragodev94/trident2wall/blob/master/pexels-photo-42379.jpeg?raw=true",
+      "name": "Man on the rock"
+    },
+  {
+      "url": "https://github.com/dragodev94/trident2wall/blob/master/pexels-photo-53901.jpeg?raw=true",
+      "name": "Wood blur"
+    },
+  {
+      "url": "https://github.com/dragodev94/trident2wall/blob/master/pexels-photo.jpg?raw=true",
+      "name": "Lines"
+    },
  {
       "url": "https://github.com/dragodev94/trident2wall/blob/master/photo-1451337597762-228a1cfe06a3.jpeg?raw=true",
       "name": "Ocean"
