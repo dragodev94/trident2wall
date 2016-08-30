@@ -1,6 +1,18 @@
 {
   "wallpapers": [
   {
+      "url": "https://github.com/dragodev94/trident2wall/blob/master/pexels-photo-28698.jpg?raw=true",
+      "name": "Blue water"
+    },
+  {
+      "url": "https://github.com/dragodev94/trident2wall/blob/master/pexels-photo.jpg?raw=true",
+      "name": "Vintage Photo"
+    },
+  {
+      "url": "https://github.com/dragodev94/trident2wall/blob/master/photo-1456024569359-9e78b5d10a80.jpg?raw=true",
+      "name": "Mnml"
+    },
+  {
       "url": "https://github.com/dragodev94/trident2wall/blob/master/VeniceZoom.jpg?raw=true",
       "name": "Venice"
     },
