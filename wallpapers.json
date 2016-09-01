@@ -1,6 +1,10 @@
 {
   "wallpapers": [
   {
+      "url": "https://raw.githubusercontent.com/dragodev94/trident2wall/master/pexels-photo-107921.jpeg",
+      "name": "B&W girl"
+    },
+  {
       "url": "https://github.com/dragodev94/trident2wall/blob/master/pexels-photo-28698.jpg?raw=true",
       "name": "Blue water"
     },
