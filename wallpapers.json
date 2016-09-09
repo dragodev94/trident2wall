@@ -1,6 +1,27 @@
 {
   "wallpapers": [
   {
+      "url": "https://github.com/dragodev94/trident2wall/blob/master/road-mountains-street-countryside.jpeg?raw=true",
+      "name": "Road mountains"
+    },
+  {
+      "url": "https://github.com/dragodev94/trident2wall/blob/master/photo-1462847722219-d493a9fd4b7c.jpeg?raw=true",
+      "name": "Sand & sky"
+    },
+  {
+      "url": "https://github.com/dragodev94/trident2wall/blob/master/photo-1456390383861-0fe4ac547358.jpeg?raw=true",
+      "name": "Fog mountain"
+    },
+  {
+      "url": "https://github.com/dragodev94/trident2wall/blob/master/pexels-photo-41119.jpeg?raw=true",
+      "name": "Coast"
+    },
+  {
+      "url": "https://github.com/dragodev94/trident2wall/blob/master/pexels-photo-27490.jpg?raw=true",
+      "name": "Dark mountain"
+    },
+    
+  {
       "url": "https://raw.githubusercontent.com/dragodev94/trident2wall/master/pexels-photo-107921.jpeg",
       "name": "B&W girl"
     },
